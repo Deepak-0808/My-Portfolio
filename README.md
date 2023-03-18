@@ -1,5 +1,5 @@
 # My-Portfolio
-<h2>screenshot of portfolio</h2>
+<h2>Screenshot of portfolio</h2>
 <img width="1440" alt="Screenshot 2023-03-18 at 12 23 38 PM" src="https://user-images.githubusercontent.com/104937067/226090384-d72c08a9-a152-4d9b-8f95-1844594dffb0.png">
 <img width="1440" alt="Screenshot 2023-03-18 at 12 23 53 PM" src="https://user-images.githubusercontent.com/104937067/226090389-96e89f8c-36db-4b1f-bd9d-7cafa858f00a.png">
 <img width="1440" alt="Screenshot 2023-03-18 at 12 24 01 PM" src="https://user-images.githubusercontent.com/104937067/226090394-68d902d5-8c9f-433f-ba15-d221aaa026a2.png">
